@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KryptoWatch/awesome-crypto-swaps/main/assets/krypto-watch-cyberpunk-banner.svg" alt="Krypto.Watch — Open Crypto Intelligence" width="100%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KryptoWatch/awesome-crypto-swaps/main/assets/krypto-watch-brand-banner.svg" alt="Krypto.Watch — Discover · Compare · Trade" width="100%" /></p>
 
 <h1 align="center">⚡ Awesome Crypto Swaps</h1>
 
