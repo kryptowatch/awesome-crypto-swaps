@@ -67,3 +67,8 @@ Open a pull request with the official source, exact product name, change, date c
 - [Crypto API directory](https://github.com/KryptoWatch/crypto-api-directory)
 
 <p align="center">Built for clear routes, verifiable sources, and safer research.<br /><sub>Informational only; not financial, legal, tax, or security advice.</sub></p>
+
+
+## Explore on Krypto.Watch
+
+Visit the live [crypto swap directory](https://krypto.watch/swaps) on [Krypto.Watch](https://krypto.watch/).
