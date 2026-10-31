@@ -50,8 +50,8 @@ Open a pull request with the official source, exact product name, change, date c
 
 - [KryptoWatch profile](https://github.com/KryptoWatch)
 - [Exchange directory](https://github.com/KryptoWatch/awesome-crypto-exchanges)
-- [Security toolkit](https://github.com/KryptoWatch/crypto-security-toolkit) *(planned)*
-- [API directory](https://github.com/KryptoWatch/crypto-api-directory) *(planned)*
+- [Security toolkit](https://github.com/KryptoWatch/crypto-security-toolkit)
+- [API directory](https://github.com/KryptoWatch/crypto-api-directory)
 
 ---
 
