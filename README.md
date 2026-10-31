@@ -1,10 +1,20 @@
-# Awesome Crypto Swaps
+<p align="center"><img src="https://raw.githubusercontent.com/KryptoWatch/awesome-crypto-swaps/main/assets/krypto-watch-cyberpunk-banner.svg" alt="Krypto.Watch — Open Crypto Intelligence" width="100%" /></p>
 
-A source-linked guide to crypto swap services, cross-chain protocols, and aggregators. This directory separates hosted swap services from on-chain routing products because custody, execution, KYC, fees, and user risks differ.
+<h1 align="center">⚡ Awesome Crypto Swaps</h1>
 
-> Informational directory only. Inclusion is not an endorsement or recommendation. A swap can fail, be delayed, or return less than expected; verify the route, quote, network, addresses, and terms before signing or sending assets.
+<p align="center">A clear, source-linked field guide to crypto swap services, cross-chain protocols, and aggregators.</p>
+
+<p align="center"><img src="https://img.shields.io/badge/FOCUS-CROSS--CHAIN%20SWAPS-22d3ee?style=for-the-badge&labelColor=07111f" alt="Cross-chain swaps" /> <img src="https://img.shields.io/badge/SOURCES-OFFICIAL%20DOCS-c084fc?style=for-the-badge&labelColor=07111f" alt="Official sources" /> <img src="https://img.shields.io/badge/PURPOSE-INDEPENDENT%20REFERENCE-67e8f9?style=for-the-badge&labelColor=07111f" alt="Independent reference" /></p>
+
+<p align="center"><a href="#directory">Explore directory</a> · <a href="#compare-before-using">Compare routes</a> · <a href="#contribute">Contribute</a> · <a href="https://github.com/KryptoWatch">Krypto.Watch</a></p>
+
+---
+
+> **Use this as a research starting point.** Inclusion is not an endorsement or recommendation. A swap can fail, be delayed, or return less than expected. Check the route, quote, network, addresses, and current terms before sending assets.
 
 ## Directory
+
+Services are grouped by execution model. Order is editorial and does not rank quality or safety.
 
 ### Hosted or service-operated swaps
 
@@ -21,41 +31,39 @@ A source-linked guide to crypto swap services, cross-chain protocols, and aggreg
 
 | Project | Official information | What to verify |
 | --- | --- | --- |
-| [THORSwap](https://thorswap.finance/) | [Documentation](https://docs.thorswap.finance/thorswap) · [Cross-chain swap FAQ](https://docs.thorswap.finance/thorswap/how-tos/frequently-asked-questions/cross-chain-swaps) | Check the current supported chains, assets, route mechanics, wallet compatibility, and transaction requirements in the app and documentation. |
-
-This is an initial, deliberately small list. A product may combine multiple routing protocols or providers; describe the actual route model rather than using a broad label such as “instant” or “decentralized.”
+| [THORSwap](https://thorswap.finance/) | [Documentation](https://docs.thorswap.finance/thorswap) · [Cross-chain swap FAQ](https://docs.thorswap.finance/thorswap/how-tos/frequently-asked-questions/cross-chain-swaps) | Check current supported chains and assets, route mechanics, wallet compatibility, and transaction requirements in the app and documentation. |
 
 ## Compare before using
 
-Record sourced, dated details where available:
+Capture sourced, dated details before acting:
 
-- Service model: hosted service, non-custodial interface, protocol, or aggregator
-- Route type: same-chain, cross-chain, bridge, atomic swap, or liquidity-pool route
-- Supported networks, tokens, wallet types, and minimum/maximum amounts
-- Quote type: fixed or floating; quote lifetime; slippage and price impact treatment
-- Network fees, provider fees, spreads, affiliate fees, and other charges
-- KYC/AML triggers, restricted jurisdictions, refund and support processes
-- Audits and security disclosures, linked to the named contract or product version
+- **Route model:** hosted service, non-custodial interface, protocol, or aggregator
+- **Route type:** same-chain, cross-chain, bridge, atomic swap, or liquidity-pool route
+- **Coverage:** supported networks, tokens, wallets, and minimum or maximum amounts
+- **Quote:** fixed or floating, expiry, slippage, price impact, and output estimate
+- **Costs:** network fees, provider fees, spreads, and other charges
+- **Requirements:** KYC/AML triggers, regional limits, refunds, and support process
+- **Security:** audits and disclosures tied to the exact contract or product version
 
 A “non-custodial” interface does not remove smart-contract, bridge, signer, liquidity, wallet, or transaction risks. A protocol or route may have separate operators and terms.
 
 ## Inclusion criteria
 
 1. Link to official product documentation and current terms.
-2. Identify the specific product and execution model; do not mix wallets, bridges, exchanges, and aggregators without labeling them.
+2. Identify the exact product and execution model; label wallets, bridges, exchanges, and aggregators clearly.
 3. Support claims about assets, networks, fees, custody, and jurisdictions with primary sources.
-4. Add a `Last checked` date to time-sensitive entries. Avoid uncited “best,” “fastest,” “safest,” or “zero fee” claims.
+4. Add a **Last checked** date to time-sensitive entries. Avoid uncited “best,” “fastest,” “safest,” or “zero fee” claims.
 5. Disclose sponsorships and conflicts; no referral codes or paid rankings.
 
 ## Contribute
 
 Open a pull request with the official source, exact product name, change, date checked, and any region or route scope. Report broken links or outdated information in an issue. Never include seed phrases, private keys, or personal account information.
 
-## Related projects
+## Krypto.Watch network
 
-- [KryptoWatch profile](https://github.com/KryptoWatch)
-- [Exchange directory](https://github.com/KryptoWatch/awesome-crypto-exchanges)
+- [Profile and other projects](https://github.com/KryptoWatch)
+- [Crypto exchange directory](https://github.com/KryptoWatch/awesome-crypto-exchanges)
 - [Security toolkit](https://github.com/KryptoWatch/crypto-security-toolkit)
-- [API directory](https://github.com/KryptoWatch/crypto-api-directory)
+- [Crypto API directory](https://github.com/KryptoWatch/crypto-api-directory)
 
-This project is informational and does not provide financial, legal, tax, or security advice.
+<p align="center">Built for clear routes, verifiable sources, and safer research.<br /><sub>Informational only; not financial, legal, tax, or security advice.</sub></p>
