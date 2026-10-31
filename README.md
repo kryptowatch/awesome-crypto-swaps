@@ -11,6 +11,7 @@ A source-linked guide to crypto swap services, cross-chain protocols, and aggreg
 | Service | Official information | What to verify |
 | --- | --- | --- |
 | [ChangeNOW](https://changenow.io/) | [Terms of use](https://changenow.io/terms-of-use/changenow-terms) | Its terms describe indicative classic-rate quotes, third-party liquidity providers, AML/KYC checks, and jurisdiction restrictions. Review the current terms for your region and service. |
+| [ChainSwap](https://chainswap.io/) | [How it works](https://chainswap.io/how-it-works) · [Terms](https://chainswap.io/term-condition) | Its site describes a wallet-to-wallet swap service. Verify the exact route, quote type, supported assets, and terms for each order. Last checked: 2026-11-01. |
 
 ### On-chain protocols and aggregators
 
@@ -52,7 +53,5 @@ Open a pull request with the official source, exact product name, change, date c
 - [Exchange directory](https://github.com/KryptoWatch/awesome-crypto-exchanges)
 - [Security toolkit](https://github.com/KryptoWatch/crypto-security-toolkit)
 - [API directory](https://github.com/KryptoWatch/crypto-api-directory)
-
----
 
 This project is informational and does not provide financial, legal, tax, or security advice.
